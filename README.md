@@ -8,7 +8,8 @@
 
 <br>
 <p align="center">
-  Hi, I'm rookieyx, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm rookieyx !!!
+  <!--
   <br>
   <br>
   🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
@@ -26,6 +27,7 @@
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  -->
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
